@@ -135,9 +135,11 @@ public class main {
         }
         else { // Работаем с частью, в которой 2 отрезка
             if (X > D){  // Разбиваем часть, в которой 2 отрезка
-                System.out.println(5);} // Выводим ответ
+                System.out.println(5); // Выводим ответ
+			}
             else{
-                System.out.println(4);} // Выводим ответ  
+                System.out.println(4); // Выводим ответ  
+			}   
         }             
     }
 }
